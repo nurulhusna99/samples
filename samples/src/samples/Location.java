@@ -10,5 +10,13 @@ public class Location {
 		// TODO Auto-generated method stub
 
 	}
+	
+	private String name;
+	private int locationId;
+	private int description;
+	
+	public String getName() {
+		return name;
+	}
 
 }
